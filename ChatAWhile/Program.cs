@@ -7,7 +7,7 @@
  * An Introduction to Object-Oriented Programming 6th Edition       *
  * by Joyce Farrell                                                 *
  *                                                                  *
- * Instructions (Page 265, Excersize 6):                            *
+ * Instructions (Page 265, Exercise 6):                            *
  * The Chat-A-While phone company provides service to six area      *
  * codes and charges the per-minute rates for phone calls shown in  *
  * Figure 6-25. Write a program named ChatAWhile that stores the    *
